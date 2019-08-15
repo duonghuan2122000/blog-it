@@ -1,4 +1,4 @@
-# Blog IT
+﻿ # Blog IT
  Đây mã nguồn là blog chia sẻ kiến thức lập trình của bản thân mình được viết bằng framework Codeigniter trên PHP 7+.
  ## Các tính năng chính
  
@@ -15,3 +15,4 @@ Giải nén và upload Database trong thư mục db
 Cấu hình lại file application/config/config.php, database.php
 Khởi chạy
 ## Free license
+
